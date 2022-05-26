@@ -10,13 +10,8 @@ Comandos:
 	> git Status (Pra saber o status dos arquivos)
 	> git Init (inicializar um diretório)
 	> git branch (exibi as branches que eu baixei localmente)
-	> git branch [new_branch] (apenas cria nova branch)
-	> git checkout -b [new_branch] (cria e muda a branch para a nova criada)
-	> git add [nome_do_arquivo] (add ao commit o arquivo especifico)
-	> git add . (add pro commit todos os arquivos não trackeados)
-	> git commit -m "Coloque sempre uma msg aqui" (cria o commit)
-	> git push (envia o commit criado para o repositório remoto)
-	
+	> git branch [new_branch]
+	> git checkout -b 
 	
 
 LINUX:
@@ -56,7 +51,6 @@ PALAVRINHAS MERDAS DE TI:
 	> DLL 
 	> Compilar (Analise e Construção/Transformação do codigo)
 	> Distro (Distribuições Linux)
-	> Code Review
 	
 ATALHOS:
 	> Windows + R (Abre a caixinha de executar)
