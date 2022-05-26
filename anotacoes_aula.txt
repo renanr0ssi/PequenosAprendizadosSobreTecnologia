@@ -1,0 +1,57 @@
+
+GIT:
+Tecnologia:
+	> Github
+	> Gitlab
+	> Bitbucket ( Atlassian )
+	
+Comandos:
+	> git Clone (Clone o repositorio)
+	> git Status (Pra saber o status dos arquivos)
+	> git Init (inicializar um diretório)
+	> git branch (exibi as branches que eu baixei localmente)
+	> git branch [new_branch]
+	> git checkout -b 
+	
+
+LINUX:
+	> ls (Lista o conteudo do diretório) [Listar]
+	> cd (Mudar de diiretório) [Change Directory]
+		> ex: cd /usr
+	> cd .. (volta um diretório) 
+	> Seta pra cima (navega no historico de comandos)
+	> mkdir (Cria uma pasta/diretório)
+		> mkdir nomedapasta
+	> pwd (pra saber onde está)
+
+	
+ATLASSIAN:
+	> Trello
+	> Jira (Trello pago)
+		Jira Service Desk (Gestão de chamados)
+	> BitBucket (Repositorio e Gestão de Codigo)
+	> Bamboo (CI /CD)
+	
+	
+APRENDIZADOS:
+ OBRIGATÓRIOS:	
+	> Linux
+	> Git
+	> 
+
+	
+LEGAIS E MANEIROS:
+	> Markdown (https://experienceleague.adobe.com/docs/contributor/contributor-guide/writing-essentials/markdown.html?lang=pt-BR)
+
+
+ASSUNTOS ALEATORIOS PARA ESTUDAR QUANDO SE TIVER TEMPO:
+	>	Linus Torvalds	
+	
+PALAVRINHAS MERDAS DE TI:
+	> DLL 
+	> Compilar (Analise e Construção/Transformação do codigo)
+	> Distro (Distribuições Linux)
+	
+ATALHOS:
+	> Windows + R (Abre a caixinha de executar)
+	> mspaint (abrir o paint)
